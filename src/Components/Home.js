@@ -14,7 +14,7 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            Enjoy Your Favourite Food Delivered Hot & Fresh
+            Enjoy Your Favorite Food Delivered Hot & Fresh
           </h1>
           <p className="primary-text">
           Our chefs craft exquisite dishes with locally-sourced ingredients, creating a diverse menu that pays homage to tradition while embracing global flavors.
